@@ -69,7 +69,6 @@ Home gardening requires continuous attention and effort. Many gardeners face cha
 - **IoT Simulations**: Wokwi (for virtual IoT sensor simulations).
 - **Cloud**: ThingSpeak (for data storage and visualization).
 - **Mobile App**: Android (for real-time monitoring and interaction with the system).
-- **Programming**: C++, Python, Java (for app and system development).
 
 ---
 
