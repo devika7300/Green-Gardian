@@ -96,6 +96,6 @@ Home gardening requires continuous attention and effort. Many gardeners face cha
 
 ## 🎥 Demo
 
-[Insert screenshot of the app UI or a link to a demo video here]
+(https://drive.google.com/file/d/1MMWnQCdizHLeKqqwJXuffni-6wiwZz7Z/view?usp=sharing)
 
 ---
