@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Green Guardian</string>
+    <string name="moisture_format">Moisture: %1$d</string>
+    <string name="water_pump_status">Water Pump: %1$s</string>
+    <string name="thingspeak_api_key">A2ZE4F2SHJL9CRW6</string>
+
+</resources>

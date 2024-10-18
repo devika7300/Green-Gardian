@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/navigation_home"
+        android:icon="@drawable/home"
+        android:title=""
+         />
+
+    <item
+        android:id="@+id/navigation_temperature"
+        android:icon="@drawable/sun"
+        android:title=""
+         />
+
+    <item
+        android:id="@+id/navigation_water"
+        android:icon="@drawable/water"
+        android:title=""
+        />
+
+    <item
+        android:id="@+id/navigation_health"
+        android:icon="@drawable/health"
+        android:title=""
+        />
+</menu>
